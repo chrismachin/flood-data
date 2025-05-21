@@ -1,9 +1,12 @@
 # flood-data
-UK Rainfall & Flood data - EDA and API queries
+
+Project to demonstrate cloud ETL/ELT using UK Rainfall & Flood data 
+Project contains:
+- EDA and API query notebooks
 
 This uses Environment Agency flood and river level data from the real-time data API (Beta)
 
-## Sources 
+## Data sources & documentation
 
 Rainfall:
 https://environment.data.gov.uk/flood-monitoring/doc/rainfall
