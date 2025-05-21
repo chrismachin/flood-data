@@ -1,4 +1,4 @@
-# flood-data
+# Rainfall and Flood Data Project
 
 Project to demonstrate cloud ETL/ELT on different platforms using UK Rainfall & Flood data.
 
