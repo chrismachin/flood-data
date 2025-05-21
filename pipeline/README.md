@@ -1,4 +1,5 @@
-Pipeline scripts for:
-AWS
-Azure 
-GCP
+## Pipelines
+
+- AWS
+- Azure 
+- GCP
